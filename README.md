@@ -1,2 +1,2 @@
-# build_andDeploy_FlaskApp
-Hands on Lab from the IBM Full Stack Course in Developing AI Applications with Python and Flask
+# Building and Deploying a Web App using Flask
+This is the repository for Building and web deploying applications using Flask.
